@@ -2067,3 +2067,28 @@ a {
     display: none;
   }
 }
+
+      .posttitlewithoutimg {
+        color: #343a40;
+      }
+    
+      .sitename {
+        color: #7048e8;
+      }
+    
+        .describtion {
+          color: #343a40;
+        }
+      
+        .menubutton {
+          color: #495057;
+        }
+      
+        #sitegotimeDate,#sitegotimes,#footinfo,#footinfo a{
+          color: #343a40;
+        }
+      
+        .mobiledescribtion{
+          color: #343a40;
+        }
+      
